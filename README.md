@@ -23,5 +23,11 @@
 所有K | 無論當前數字為多少直接變為99 
 黑桃A | 歸零
 
-
+## 使用
+執行poker_99_CN.exe或poker_99_EN.exe，前者為中文版後者為英文版，兩支應用程式的source code分別為99_CN.cpp與99_EN.cpp  
+### 開始遊戲
+一開始會要求輸入玩家名稱，不能為電腦玩家名稱(玩家A、玩家B、玩家C 或 Player B、Player C、Player D)
+```
+請輸入玩家名稱:
+```
 
